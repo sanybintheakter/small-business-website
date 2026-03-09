@@ -6,13 +6,13 @@ body {
 }
 
 header {
-  background-color: darkgreen;
-  color: white;
+  background-color: rgb(123, 149, 200);
+  color: rgb(251, 251, 251);
   padding: 20px;
 }
 
 nav a {
-  color: white;
+  color: rgb(255, 255, 255);
   margin: 0 10px;
   text-decoration: none;
 }
@@ -42,7 +42,7 @@ section {
 }
 
 footer {
-  background-color: darkgreen;
+  background-color: rgb(123, 149, 200);
   color: white;
   padding: 15px;
 }
